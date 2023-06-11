@@ -5,4 +5,6 @@ spring:
     config:
       server:
         git:
+#          force-pull: true
+#          uri: D:\my_training_projects\book-bench\config
           uri: https://github.com/book-bench/config
